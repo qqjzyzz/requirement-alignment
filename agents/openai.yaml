@@ -1,0 +1,3 @@
+interface:
+  display_name: "需求歧义对齐"
+  short_description: "澄清当前开发需求中的隐含假设，集中确认关键分歧并保存验收约定"
